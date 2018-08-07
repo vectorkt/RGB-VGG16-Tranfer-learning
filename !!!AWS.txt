@@ -1,0 +1,21 @@
+https://aws.amazon.com/about-aws/whats-new/2017/10/aws-deep-learning-ami-now-supports-pytorch-keras-2-and-latest-deep-learning-frameworks/
+
+https://aws.amazon.com/machine-learning/amis/
+
+
+
+Costs
+
+worst case scenario on fargate
+https://jsfiddle.net/vectorkt/o3c5u0ah/
+
+https://aws.amazon.com/ec2/pricing/
+
+https://aws.amazon.com/ec2/pricing/on-demand/#Data_Transfer
+
+
+
+https://aws.amazon.com/fargate/
+
+https://aws.amazon.com/fargate/pricing/
+
